@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Misha_Calik\MyForm.h(586,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Misha_Calik\MyForm.h(594,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Misha_Calik\MyForm.h(624,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Misha_Calik.vcxproj -> C:\Users\User\source\repos\Misha_Calik\x64\Debug\Misha_Calik.exe
